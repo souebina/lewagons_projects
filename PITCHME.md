@@ -19,7 +19,8 @@ A web platform where users can share __LOVE__ and __PASSION__ behind their produ
 
 ---
 _Market Validation_  
-Marketers will spend more money on CONTENTS MARKETING to have an original voice to engage people. 
+Marketers will spend more money on CONTENTS MARKETING to have an original voice to engage people.  
+
 ---?image=images/market_validation.jpg&size=auto 80%
 
 ---
