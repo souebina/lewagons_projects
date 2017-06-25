@@ -1,9 +1,9 @@
-_Welcome_  
+_[Welcome]_  
 # STORYBEHIND  
 Place to share your LOVE and PASSION behind the products
 
 ---
-_Problem_  
+_[Problem]_  
 
 |__Cluttered Market__|__More Ad Blockers__|__Increased Ad Costs__|
 |:--:|:--:|:--:|
