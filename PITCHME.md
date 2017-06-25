@@ -1,10 +1,10 @@
-# 1.Welcome 
-## STORYBEHIND 
+1.Welcome 
+### STORYBEHIND 
 Place to share your LOVE and PASSION behind the products
 
 ---
-# 2.Problem/Challenges 
-## Digital marketing is always going to be a changing industry because the online world is changing rapidly.It’s not just a matter of sites coming and going. It’s also a change in the way people interact online, the software they use, the devices they use, and more. 
+2.Problem/Challenges 
+### Digital marketing is always going to be a changing industry because the online world is changing rapidly.It’s not just a matter of sites coming and going. It’s also a change in the way people interact online, the software they use, the devices they use, and more. 
 
 - Cluttered Market: There are billions of websites in a limited number of niches. How will you make your website stand out amongst the rest?  SEO is just one way to help you rise to the top, but it is not enough. You have to find ways to provide unique and valuable content, you have to have an original voice, and you have to engage people. Everything has already been done, so there’s no use in trying to reinvent the wheel. You can’t be outrageous or goofy because that bar is already too high. Ditto for shocking or controversial. Instead, focus on giving your readers what they really need. Provide them solutions to their problems. Talk about the things they care about. Make emotional appeals.
 
