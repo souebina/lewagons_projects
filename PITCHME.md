@@ -4,7 +4,6 @@ Place to share your LOVE and PASSION behind the products
 
 ---
 _Problem_  
-Digital marketing is always going to be a changing industry because the online world is changing rapidly. 
 
 |__Cluttered Market__|__More Ad Blockers__|__Increased Ad Costs__|
 |:--:|:--:|:--:|
