@@ -44,11 +44,15 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 [Market Adoption]  
 
 - MEDIA
-    + Nikkei Digital Marketing
     + MarkeZine
-    + some medias
+    + Nikkei Digital Marketing
+    + TechCrunch
+    + ITmedia Marketing
+    + AdverTimes
+    + WIRED
 - PARTNERSHIP
-    + some partners
+    + Amazon.com
+    + Rakuten
 
 ---
 [Competition]  
@@ -62,4 +66,8 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 ---
 [Competitive Advantages]  
 
+- 1st TO MARKET
+- 
+- EASE OF USE
+- 
 
