@@ -4,9 +4,9 @@ Place to share your LOVE and PASSION behind the products
 ---
 [Problem]  
 
-|__Cluttered Market__|__More Ad Blockers__|__Increased Ad Costs__|
+|__CLUTTERED MARKET__|__NOBODY WANTS TO SEE ADS__|__INCREASED AD COSTS__|
 |:--:|:--:|:--:|
-|There are billions of websites in a limited number of niches.How will you make your website stand out amongst the rest?|The use of ad blocking software is growing exponentially|There is more competition than ever for advertising,and networks like Google/Facebook are pushing up prices across the board|
+|There are billions of websites in a limited number of niches|People hate ads|There is more competition than ever for advertising,and networks like Google/Facebook are pushing up prices across the board|
 
 ---
 [Solution]  
