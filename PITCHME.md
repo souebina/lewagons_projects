@@ -53,21 +53,22 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 - PARTNERSHIP
     + Amazon.com
     + Rakuten
+    + Kakaku.com
 
 
 ---
 [Competition]  
 
-- Local competitors 
-    + Kakaku.com 
-- Global competitors 
-    + Amazon.com 
-    + Rakuten 
+- Kakaku.com
+- Amazon.com
+- Rakuten
 
 ---
 [Competitive Advantages]  
 
-- 1st TO MARKET
-- EASE OF USE
-- 
+|__1st TO MARKET__|__EASE OF USE__ |__UNIQUE ECO-SYSTEM__|
+|:--:|:--:|:--:|
+|xxxxxxxxxxx|xxxxxxxxxxx|xxxxxxxxxxx|
 
+---
+## THANK YOU!
