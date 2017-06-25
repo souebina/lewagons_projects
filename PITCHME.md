@@ -26,8 +26,30 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 ---
 _Market Size_
 
----?image=images/market_size_budgets.jpg&size=auto 50%  
----?image=images/market_size_plan.jpg&size=auto 50%  
-
+---?image=images/market_size_budgets.jpg&size=auto 80%  
+---?image=images/market_size_plan.jpg&size=auto 70%  
 
 ---
+_Product_ 
+## SEARCH BY CATEGORY -> VIEW CARD -> REVIEW
+
+---
+_Business Model_
+
+- social engagement option
+- provide API to existing e-commerce company (amazon, rakuten..)
+- provide data to AI company
+
+---
+_Market Adoption_ 
+
+- MEDIA
+- PARTNERSHIP
+
+---
+_Competition_
+
+---
+_Competitive Advantages_
+
+
