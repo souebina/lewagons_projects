@@ -18,9 +18,6 @@ Digital marketing is always going to be a changing industry because the online w
 ---
 ###### 3.Solution  
 A web platform where users can share __LOVE__ and __PASSION__ behind their product to: 
-|__MANAGE ONLINE REPUTATION__|__SAVE MONEY__|__MAKE MONEY__|
-|:--:|:--:|:--:|
-|Make emotional appeals, generate positive word of mouth|Not to spend too much money on adviertisement|Happy selling!|
 
 |__MANAGE ONLINE REPUTATION__|__SAVE MONEY__ |__MAKE MONEY__|
 |:--:|:--:|:--:|
