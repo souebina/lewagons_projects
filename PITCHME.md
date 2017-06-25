@@ -4,7 +4,7 @@ Place to share your LOVE and PASSION behind the products
 ---
 [Problem]  
 
-|__CLUTTERED MARKET__|__BANNER ADS ALL OVER THE WEB__|__INCREASED AD COSTS__|
+|__CLUTTERED MARKET__|__BANNER ADS EVERYWHERE__|__INCREASED AD COSTS__|
 |:--:|:--:|:--:|
 |There are billions of websites in a limited number of niches|People hate ads|There is more competition than ever for advertising,and networks like Google/Facebook are pushing up prices across the board|
 
