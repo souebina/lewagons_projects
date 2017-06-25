@@ -54,6 +54,16 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
     + Amazon.com
     + Rakuten
 
+|__MEDIA__|__PARTNERSHIP__ |
+|:--:|:--:|
+| - MarkeZine
+- Nikkei Digital Marketing
+- TechCrunch
+- ITmedia Marketing
+- AdverTimes
+- WIRED|- Amazon.com
+- Rakuten|
+
 ---
 [Competition]  
 
