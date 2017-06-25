@@ -20,4 +20,8 @@ A web platform where users can share __LOVE__ and __PASSION__ behind their produ
 ---
 _Market Validation_
 You have to find ways to provide unique and valuable content, you have to have an original voice, and you have to engage people. 
-![Image](images/market_validation.tiff)  
+![Image](images/market_validation.jpg)  
+
+---
+_Market Size_
+
