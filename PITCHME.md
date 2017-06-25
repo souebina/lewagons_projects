@@ -5,10 +5,6 @@ Place to share your LOVE and PASSION behind the products
 ---
 ###### 2.Problem/Challenges  
 Digital marketing is always going to be a changing industry because the online world is changing rapidly. 
-|header1|header2|header3|
-|:--|--:|:--:|
-|align left|align right|align center|
-|a|b|c|
 
 |__Cluttered Market__ |__More Ad Blockers__ |__Increased Ad Costs__|
 |:--:|:--:|:--:|
