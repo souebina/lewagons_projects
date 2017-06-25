@@ -17,8 +17,8 @@ Digital marketing is always going to be a changing industry because the online w
 - __Increased Ad Costs:__ There is more competition than ever for advertising, and networks like Google and Facebook are pushing up prices across the board. For competitive niches, you’ll have to pay a lot more this year.
 ---
 ###### 3.Solution  
-|header1|header2|header3|
-|:--|--:|:--:|
-|align left|align right|align center|
-|a|b|c|
+A web platform where users can share __LOVE__ and __PASSION__ behind their product to: 
+|__MANAGE ONLINE REPUTATION__|__SAVE MONEY__|__MAKE MONEY__|
+|:--:|:--:|:--:|
+|make emotional appeals, generate positive word of mouth|not to spend too much money on adviertisement|Happy selling!|
 ---
