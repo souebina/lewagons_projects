@@ -4,7 +4,12 @@ Place to share your LOVE and PASSION behind the products
 
 ---
 ###### 2.Problem/Challenges  
-Digital marketing is always going to be a changing industry because the online world is changing rapidly.
+Digital marketing is always going to be a changing industry because the online world is changing rapidly. 
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
+
 |__Cluttered Market__ |__More Ad Blockers__ |__Increased Ad Costs__|
 |:--:|:--:|:--:|
 |There are billions of websites in a limited number of niches. How will you make your website stand out amongst the rest?|The use of ad blocking software is growing exponentially,and the people who are not using them will soon be in the minority.|There is more competition than ever for advertising, and networks like Google and Facebook are pushing up prices across the board. For competitive niches, you’ll have to pay a lot more this year.|
