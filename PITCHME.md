@@ -1,4 +1,3 @@
-[Welcome] 
 # STORYBEHIND  
 Place to share your LOVE and PASSION behind the products
 
@@ -45,10 +44,20 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 [Market Adoption]  
 
 - MEDIA
+    + Nikkei Digital Marketing
+    + MarkeZine
+    + some medias
 - PARTNERSHIP
+    + some partners
 
 ---
 [Competition]  
+
+- Local competitors 
+    + Kakaku.com 
+- Global competitors 
+    + Amazon.com 
+    + Rakuten 
 
 ---
 [Competitive Advantages]  
