@@ -20,16 +20,18 @@ A web platform where users can share __LOVE__ and __PASSION__ behind their produ
 ---
 [Market Validation]  
 Marketers will spend more money on CONTENTS MARKETING to have an original voice to engage people.  
-+++?image=images/market_validation.jpg&size=auto 80% 
+---?image=images/market_validation.jpg&size=auto 80% 
+
++++
 
 [Market Size]  
-+++?image=images/market_size_budgets.jpg&size=auto 80%  
-+++?image=images/market_size_plan.jpg&size=auto 70%  
+---?image=images/market_size_budgets.jpg&size=auto 80%  
+---?image=images/market_size_plan.jpg&size=auto 70%  
 
 ---
 [Product] 
 ### SEARCH BY CATEGORY -> VIEW CARD -> REVIEW
-+++?image=images/product.jpg&size=auto 65% 
+---?image=images/product.jpg&size=auto 65% 
 
 ---
 [Business Model]  
@@ -66,7 +68,7 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 
 |__1st TO MARKET__|__EASE OF USE__ |__UNIQUE ECO-SYSTEM__|
 |:--:|:--:|:--:|
-|Too simple?|Lower the hurdle|Competitor,but partner|
+|Waiting for first follower to save a lone nut|Focus on one thing,make it simple|Competitor,but partner|
 
 ---
 ## THANK YOU!
