@@ -15,7 +15,7 @@ A web platform where users can share __LOVE__ and __PASSION__ behind their produ
 
 |__MANAGE ONLINE REPUTATION__|__SAVE MONEY__ |__MAKE MONEY__|
 |:--:|:--:|:--:|
-|Make emotional appeals, generate positive word of mouth|Avoid spending too much money on adviertisement|Happy selling!|
+|Make emotional appeals, generate positive word of mouth|Avoid spending too much money on adviertisement|Customers Don’t Buy From People They Like, They Buy From Those They Trust|
 
 ---
 [Market Validation]  
@@ -31,7 +31,9 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 
 ---
 [Product] 
-## SEARCH BY CATEGORY -> VIEW CARD -> REVIEW
+### SEARCH BY CATEGORY -> VIEW CARD -> REVIEW
+---?image=images/product.jpg&size=auto 80% 
+
 
 ---
 [Business Model]  
