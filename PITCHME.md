@@ -70,7 +70,7 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 
 |__1st TO MARKET__|__EASE OF USE__ |__UNIQUE ECO-SYSTEM__|
 |:--:|:--:|:--:|
-|xxxxxxxxxxx|xxxxxxxxxxx|xxxxxxxxxxx|
+|Too simple?|Lower the hurdle|Competitor,but partner|
 
 ---
 ## THANK YOU!
