@@ -32,7 +32,7 @@ Marketers will spend more money on CONTENTS MARKETING to have an original voice 
 ---
 [Product] 
 ### SEARCH BY CATEGORY -> VIEW CARD -> REVIEW
----?image=images/product.jpg&size=auto 80% 
+---?image=images/product.jpg&size=auto 65% 
 
 
 ---
