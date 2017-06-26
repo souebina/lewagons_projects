@@ -6,7 +6,7 @@ Place to share your LOVE and PASSION behind the products
 
 |__CLUTTERED MARKET__|__BANNER ADS EVERYWHERE__|__INCREASED AD COSTS__|
 |:--:|:--:|:--:|
-|There are billions of websites in a limited number of niches|And most of the ads are shit|There is more competition than ever for advertising,and networks like Google/Facebook are pushing up prices across the board|
+|There are billions of websites in a limited number of niches|People hates banners,so annoying and most the cases useless|There is more competition than ever for advertising,and networks like Google/Facebook are pushing up prices across the board|
 
 ---
 [Solution]  
